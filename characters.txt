@@ -1,1 +1,2 @@
+CHARACTERS
 Some words here for git tutorial ivnsd
